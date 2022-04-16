@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.5),#f353c3), url(/img/banner.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),#f353c3), url(https://studiosol-a.akamaihd.net/tb/letras-blog/wp-content/uploads/2021/11/05b0ab2-blackpink-how-you-like-that-music-video-mv-1024x754.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
