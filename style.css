@@ -266,13 +266,13 @@ hr{
         margin-bottom: 30px;
     }
     .service-desc p{
-        font-size: 12px;
+        display: none;
     }
    hr{
        margin: 5px auto;
    } 
    .single-service:hover .service-desc{
-    bottom: 25% !important;
+    bottom: 50% !important;
 }
 }
 /* TESTIMONIAL */
@@ -324,6 +324,7 @@ hr{
 @media screen and (max-width:770px){
     .testimonial-col{
         flex-basis: 100%;
+        flex-wrap: wrap;
     }
 }
 /* footer */
